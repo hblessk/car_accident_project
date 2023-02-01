@@ -8,7 +8,7 @@
 
 #### <flask_car_accident>
 #### 웹 구동 코드
-파일내 README.md 참고
-pip install flask
-pip install -r app/source/requirements.txt
-App 실행 시 flask --app app run 입력
+#### 파일내 README.md 참고
+#### pip install flask
+#### pip install -r app/source/requirements.txt
+#### App 실행 시 flask --app app run 입력
